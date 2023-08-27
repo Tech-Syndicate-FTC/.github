@@ -1,5 +1,5 @@
 # Hello!
-This is FTC Team #21233 Tech Syndicate. We are an 7 member rookie community team based in San Antonio.
+This is FTC Team #21233 Tech Syndicate. We are a community team located in San Antonio, Texas whose goal is to create an advanced program to teach students CAD, coding, mechanics, and team management. Our team is comprised of students from 5 separate schools to cultivate diversity in ideas.
 
 ## Members:
 - Karim Ali
@@ -8,7 +8,7 @@ This is FTC Team #21233 Tech Syndicate. We are an 7 member rookie community team
 - Aryan F.
 - Alejandro Mercado 
 - Joel Honeycut
-- JP Ku 
+- JP Ku
 
 Honorary Members (too young)
 - Kyan F.
