@@ -9,6 +9,7 @@ This is FTC Team #21233 Tech Syndicate. We are a community team located in San A
 - Alejandro Mercado 
 - Joel Honeycut
 - JP Ku
+- Dallan C.S.
 
 # What we're doing...
 After our season ending at semi-final regionals, we decided to start working on an off-season co-axial swerve drive.
